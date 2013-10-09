@@ -1,0 +1,1538 @@
+Mon Nov 5 10:09:29 EST 2012 :- NotificationType = NewOrderNotification
+
+-----------------------------------------------------
+Mon Nov 5 10:09:29 EST 2012 :- NotificationData = <?xml version="1.0" encoding="UTF-8"?><NewOrderNotification xmlns="http://payments.amazon.com/checkout/2008-11-30/">
+    <NotificationReferenceId>f4cf80ab-deb1-4025-8a38-d4c3cb5f30db</NotificationReferenceId>
+    <ProcessedOrder>
+        <OrderChannel>Amazon Checkout (Sandbox)</OrderChannel>
+        <AmazonOrderID>105-3394750-8973869</AmazonOrderID>
+        <OrderDate>2012-11-05T15:09:21.000Z</OrderDate>
+        <BuyerInfo>
+            <BuyerName>Sujeesh</BuyerName>
+            <BuyerEmailAddress>sujeesh.vp@clariontechnologies.co.in</BuyerEmailAddress>
+        </BuyerInfo>
+        <ShippingAddress>
+            <Name>Sujeesh V P</Name>
+            <AddressFieldOne>495 Jefferson Street</AddressFieldOne>
+            <City>San Francisco</City>
+            <State>CA</State>
+            <PostalCode>94109</PostalCode>
+            <CountryCode>US</CountryCode>
+        </ShippingAddress>
+        <ShippingServiceLevel>Standard</ShippingServiceLevel>
+        <ProcessedOrderItems>
+            <ProcessedOrderItem>
+                <AmazonOrderItemCode>45083326512234</AmazonOrderItemCode>
+                <MerchantId>A35AZBPG9TE46N</MerchantId>
+                <SKU>102219</SKU>
+                <Title>Numark iDJ3 [Condition:Brand New (VIP Price)] [Warranty:+4 Year Extended]</Title>
+                <CartId>miq://rose:1.0/cart/cba:1.0/cart:3.0/A2SMC08ZTYKXKX/X/1-1352128135667-6FF5C886AAD07387</CartId>
+                <Price>
+                    <Amount>208.27</Amount>
+                    <CurrencyCode>USD</CurrencyCode>
+                </Price>
+                <Quantity>1</Quantity>
+                <FulfillmentNetwork>MERCHANT</FulfillmentNetwork>
+                <ItemCharges>
+                    <Component>
+                        <Type>Principal</Type>
+                        <Charge>
+                            <Amount>208.27</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                        </Charge>
+                    </Component>
+                    <Component>
+                        <Type>Shipping</Type>
+                        <Charge>
+                            <Amount>4.49</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                        </Charge>
+                    </Component>
+                    <Component>
+                        <Type>Tax</Type>
+                        <Charge>
+                            <Amount>0.0</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                        </Charge>
+                    </Component>
+                    <Component>
+                        <Type>ShippingTax</Type>
+                        <Charge>
+                            <Amount>0.0</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                        </Charge>
+                    </Component>
+                    <Component>
+                        <Type>PrincipalPromo</Type>
+                        <Charge>
+                            <Amount>0.0</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                        </Charge>
+                    </Component>
+                    <Component>
+                        <Type>ShippingPromo</Type>
+                        <Charge>
+                            <Amount>0.0</Amount>
+                            <CurrencyCode>USD</CurrencyCode>
+                        </Charge>
+                    </Component>
+                </ItemCharges>
+            </ProcessedOrderItem>
+        </ProcessedOrderItems>
+        <DisplayableShippingLabel>Standard</DisplayableShippingLabel>
+    </ProcessedOrder>
+</NewOrderNotification>
+
+-----------------------------------------------------
+Mon Nov 5 10:09:29 EST 2012 :- UUID = 2402d02f-fdee-401a-9d0a-cca508609ab2
+
+-----------------------------------------------------
+Mon Nov 5 10:09:29 EST 2012 :- Timestamp = 2012-11-05T15:09:29.064Z
+
+-----------------------------------------------------
+Mon Nov 5 10:09:29 EST 2012 :- Signature = lfbqSI6188hv2HFjZ+8bUX5tgrA=
+
+-----------------------------------------------------
+Mon Nov 5 10:09:29 EST 2012 :- AWSAccessKeyId = AKIAJ7PEJIUPH5VOG23Q
+
+-----------------------------------------------------
+Mon Nov 5 10:09:29 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:09:29 EST 2012 :- AWSSecretAccessKey is present corresponding to the AWSAccessKeyId.
+-----------------------------------------------------
+Mon Nov 5 10:09:29 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:09:29 EST 2012 :- SIVA Update 1NewOrderNotification
+-----------------------------------------------------
+Mon Nov 5 10:09:29 EST 2012 :- SIVA UPDATE 2
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:23:14 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:37:06 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:37:07 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:37:08 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:41:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:41:38 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:45:07 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:45:08 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 10:45:09 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:17 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:45:17 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:45:17 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:45:18 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:45:19 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:49:48 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:49:49 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:49:50 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:49:51 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:53:18 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:53:19 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 12:53:20 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:01:31 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:01:32 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:01:33 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:06:01 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:06:02 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:09:32 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Mon Nov 5 17:09:33 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:33:35 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:33:36 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:33:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:38:05 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:38:06 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:38:07 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:41:35 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:41:36 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 1:41:37 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- Starting Processing of request XML.
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- Access List configuration loaded successfully.
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- GET not allowed. Sending 500 response code.
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- Starting validation of Notification Data!2
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- Notification data is absent. Sending response code 500.
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- SIVA Update 1
+-----------------------------------------------------
+Tue Nov 6 4:10:29 EST 2012 :- Notification Type is absent in the request. Sending response code 500.
+-----------------------------------------------------
